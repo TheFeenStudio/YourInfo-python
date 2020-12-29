@@ -36,3 +36,5 @@ print('Ваш IP: ',cheack_js)
 print('Имя вашего компьютера: ',name_of_pc)
 print('Ваше местоположение: ',mestoIs)
 print('Ваш провайдер: ',provayderIs)
+
+input()
